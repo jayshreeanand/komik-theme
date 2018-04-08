@@ -168,15 +168,15 @@ main {
 }
 
 
-.page > header, .page > footer {
+.page-template > header, .page-template > footer {
     text-align: center;
 }
 
-.page > footer {
+.page-template > footer {
     margin-top: 2em;
 }
 
-.page {
+.page-template {
     max-width: 400px;
     margin-left: auto;
     margin-right: auto;
